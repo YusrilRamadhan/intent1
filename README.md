@@ -1,7 +1,8 @@
 # intent1
 
-![screenshot]()
-![screenshot]()
+![screenshot](https://github.com/YusrilRamadhan/intent1/blob/master/1.jpeg)
+![screenshot](https://github.com/YusrilRamadhan/intent1/blob/master/2.jpeg)
+![screenshot](https://github.com/YusrilRamadhan/intent1/blob/master/3.jpeg)
 
 # Identitas 
 <ul>
